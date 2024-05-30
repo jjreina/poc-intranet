@@ -1,0 +1,52 @@
+{
+  "levels": [
+    {
+      "id": 1,
+      "value": "leve"
+    },
+    {
+      "id": 2,
+      "value": "grave"
+    },
+    {
+      "id": 3,
+      "value": "muy grave"
+    },
+    {
+      "id": 4,
+      "value": "felicitar"
+    }
+  ],
+  "facts": [
+    {
+      "id": 1,
+      "level": 1,
+      "fact": "Abandono de asignatura"
+    },
+    {
+      "id": 2,
+      "level": 1,
+      "fact": "Actividades casa"
+    },
+    {
+      "id": 3,
+      "level": 1,
+      "fact": "Actividades clase"
+    },
+    {
+      "id": 4,
+      "level": 2,
+      "fact": "Absentismo"
+    },
+    {
+      "id": 5,
+      "level": 2,
+      "fact": "Salidas de clase sin permiso"
+    },
+    {
+      "id": 5,
+      "level": 2,
+      "fact": "Reiteración de faltas leves"
+    }
+  ]
+}

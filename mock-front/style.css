@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "system-ui";
+}
+
+body {
+  background-color: #f0f0f0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 50vh;
+  width: auto;
+  border-radius: 5%;
+  padding: 1rem;
+}
+
+.container-1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+.container-2 {
+  display: none;
+  justify-content: center;
+  align-items: center;
+  padding-top: 1rem;
+  gap: 1rem;
+}
