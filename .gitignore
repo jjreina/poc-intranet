@@ -8,8 +8,8 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
-#mock-front/node_modules
-#mock-server/node_modules
+mock-front/node_modules
+mock-server/node_modules
 dist
 mock-front/dist
 dist-ssr
