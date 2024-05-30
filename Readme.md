@@ -1,4 +1,4 @@
-<h1 align="center">Intrenet - Proof of concept</h1>
+<h1 align="center">Intranet - Proof of concept</h1>
 
 ## Development Setup
 
